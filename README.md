@@ -1,2 +1,4 @@
 # PracticeDemo
-作为练习Android中用到的demo库
+##记录平时随手练写下来的demo
+
+
